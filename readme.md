@@ -1,1 +1,1 @@
-<h1 text-align="center">Um projeto didático para fins educacionais</h1>
+<h1 style="text-align: center;">Projeto criado para fins didáticos.</h1>
